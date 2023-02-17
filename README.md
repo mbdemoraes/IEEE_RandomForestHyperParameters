@@ -1,4 +1,4 @@
-# Code for Investigation of the Effects of the Random Forest Hyper-Parameters in the Surrogate Modeling of Multi-Objective Combinatorial Optimization Problems
+## Code to investigate the effects of the Random Forest Hyper-Parameters in the surrogate modeling of multi-objective combinatorial optimization problems
 ![Graphical abstract](/images/GraphicalAbstract.png)
 
 
@@ -21,5 +21,4 @@ To investigate the performance of a Random Forest with a specific set of hyper-p
 The results are saved on the folder ```results/tunning```.
 
 ### Contact
-Any comments, suggestions or doubts, feel free to contact
-Matheus Bernardelli de moraes at m121214@dac.unicamp.br
+Any comments, suggestions or doubts, feel free to contact Matheus Bernardelli de moraes at m121214@dac.unicamp.br
