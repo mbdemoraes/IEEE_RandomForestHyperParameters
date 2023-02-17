@@ -10,8 +10,12 @@ Source code and supplementary material for the manuscript
 
 The datasets for the benchmark problems are in the folder ```datasets```.
 
+### Supplementary material
+
+The folder ```supplementary``` contains the results of the experiments described in the paper.
+
 ### Optimization
-To perform optimization, run the script ```optimization.py```.
+To perform your own optimization, run the script ```optimization.py```.
 The results of the optimization procedures are saved on the folder
 ```tests/results```.
 
